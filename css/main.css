@@ -2274,7 +2274,7 @@ input::-moz-focus-inner {
 
 .hero-scroll .scroll-link {
   text-decoration: none;
-  border: 2.5px solid white;
+  border: 0 none;
   display: block;
   height: 6.4rem;
   width: 6.4rem;
@@ -2301,7 +2301,6 @@ input::-moz-focus-inner {
 .hero-scroll .scroll-link:hover,
 .hero-scroll .scroll-link:focus {
   background-color: var(--accent-color-1);
-  border: 2.5px solid var(--accent-color-1);
 }
 
 /* -------------------------------------------------------------------
